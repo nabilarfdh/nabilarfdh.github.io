@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.jumbotron {
+  background-color: #DC95DD;
+  padding-top: 2rem;
+}
+
+.contactme ul li {
+  list-style-type: none;
+}
+
+section {
+  padding-top: 5rem;
+}
+h1 {
+  margin-top: 20px;
+}
+
+::marker {
+    unicode-bidi: isolate;
+    font-variant-numeric: tabular-nums;
+    text-transform: none;
+    text-indent: 0px !important;
+    text-align: start !important;
+    text-align-last: start !important;
+  }
