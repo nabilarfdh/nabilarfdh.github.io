@@ -13,7 +13,8 @@ body {
 }
 
 #form-contact{
-  height: 600px;
+  height: 700px;
+  padding-top: 70px;
 }
 
 .input-box{
@@ -50,7 +51,7 @@ button{
    border-radius: 25px;
    outline: none;
    border: none;
-   background-image: linear-gradient(to right, #dc95dd, #f6e785, #a885ee);
+   background-image: linear-gradient(to right, #dc95dd, #faafa5, #a885ee);
    background-size: 200%;
    font-size: 1.2rem;
    color: #fff;
@@ -62,7 +63,7 @@ button{
 }
 
 button:hover{
-  background-image: linear-gradient(to right, #f6e785, #dc95dd, #faafa5);
+  background-image: linear-gradient(to right, #faafa5, #dc95dd, #faafa5);
 }
 
 section {
